@@ -8,7 +8,8 @@
   <title>Pay Page</title>
 </head>
 <body>
-    <h2>Intro To React Course [$50]</h2>
+    <h2>（テスト）メルマガに登録</h2>
+    <h2>月　300円</h2>
     <form action="./charge-2.php" method="post" id="payment-form">
     <div class="form-row">
         <input type="text" name="name" class="form-control StripeElement StripeElement--empty" placeholder="お名前"><br>

@@ -1,0 +1,9 @@
+[18-May-2020 10:12:50 Asia/Tokyo] PHP Warning:  require(google.com): failed to open stream: No such file or directory in /virtual/jump33/public_html/stripe.o-namae.com/error_log.php on line 6
+[18-May-2020 10:12:50 Asia/Tokyo] PHP Stack trace:
+[18-May-2020 10:12:50 Asia/Tokyo] PHP   1. {main}() /virtual/jump33/public_html/stripe.o-namae.com/error_log.php:0
+[18-May-2020 10:12:50 Asia/Tokyo] PHP Warning:  require(google.com): failed to open stream: No such file or directory in /virtual/jump33/public_html/stripe.o-namae.com/error_log.php on line 6
+[18-May-2020 10:12:50 Asia/Tokyo] PHP Stack trace:
+[18-May-2020 10:12:50 Asia/Tokyo] PHP   1. {main}() /virtual/jump33/public_html/stripe.o-namae.com/error_log.php:0
+[18-May-2020 10:12:50 Asia/Tokyo] PHP Fatal error:  require(): Failed opening required 'google.com' (include_path='.:/usr/share/pear:/usr/share/php') in /virtual/jump33/public_html/stripe.o-namae.com/error_log.php on line 6
+[18-May-2020 10:12:50 Asia/Tokyo] PHP Stack trace:
+[18-May-2020 10:12:50 Asia/Tokyo] PHP   1. {main}() /virtual/jump33/public_html/stripe.o-namae.com/error_log.php:0
